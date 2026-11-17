@@ -1,0 +1,5 @@
+{
+  "android.jar": "C:/Android/Sdk/platforms/android-36/android.jar",
+  "aapt2.exe": "C:/Android/Sdk/build-tools/36.0.0/aapt2.exe",
+  "xposed-api": "C:/Android/libraries/xposed-api-82.jar"
+}

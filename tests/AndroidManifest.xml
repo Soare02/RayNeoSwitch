@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="dev.rayneo.switcher.tests">
+    <uses-sdk android:minSdkVersion="29" android:targetSdkVersion="36" />
+    <application android:label="RayNeo Switch regression tests" android:testOnly="true" />
+    <instrumentation android:name="dev.rayneo.switcher.ProviderStoreInstrumentation"
+        android:targetPackage="dev.rayneo.switcher" />
+</manifest>
